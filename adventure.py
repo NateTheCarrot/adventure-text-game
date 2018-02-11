@@ -25,7 +25,7 @@ if lol == "4":
 if lol == "5":
   print("welp, this isn't a secret exactly, the creator just needed to keep a paste bin xD: https://pastebin.com/JsePX8Ys") #< Pls no question kthx
 if lol == "3":      
-else:
+else
     print("That isn't a class. Relaunch the program and try again.")
     
     
